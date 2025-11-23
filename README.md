@@ -12,7 +12,7 @@ NOTE the coach ai wont work since i am not running that on the cloud, but beside
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-green)](https://supabase.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-purple)](https://vitejs.dev/)
 
-## 🌟 Overview
+## 🌟 Overview:
 
 A comprehensive financial education platform that transforms complex stock trading concepts into engaging, interactive learning experiences. Built with modern web technologies and powered by AI, this platform combines educational content, real-time market data, and gamification to help users become confident investors.
 
