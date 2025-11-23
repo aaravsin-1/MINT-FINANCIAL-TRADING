@@ -1,3 +1,6 @@
+try it out at mint-trading.netlify.app
+NOTE the coach ai wont work since i am not running that on the cloud, but besides that everything works
+
 # 📈 Stock Trading Learning Platform
 
 > An interactive, gamified platform for mastering stock trading through hands-on learning, AI-powered coaching, and real-time market simulations.
@@ -448,5 +451,3 @@ For issues or questions, please contact the development team.
 - **Lovable** - Development platform
 
 ---
-
-Built with ❤️ using [Lovable](https://lovable.dev)
