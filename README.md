@@ -1,8 +1,7 @@
 # try it out at 
 ## mint-trading.netlify.app
-
 NOTE the coach ai wont work since i am not running that on the cloud, but besides that everything works.
-
+# here is a yt vid- [(https://www.youtube.com/watch?v=1CNT3yw9bfQ)]
 # 📈 Stock Trading Learning Platform
 
 > An interactive, gamified platform for mastering stock trading through hands-on learning, AI-powered coaching, and real-time market simulations.
