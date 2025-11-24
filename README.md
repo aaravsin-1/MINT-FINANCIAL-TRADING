@@ -1,6 +1,6 @@
 # try it out at 
 ## mint-trading.netlify.app
-NOTE the coach ai wont work since i am not running that on the cloud, but besides that everything works.
+NOTE the coach ai wont work since i am not running that on the cloud, but besides that everything works.24/1125 after maybe a month most likely nothing will work snce i will probably put it off the cloud to work on differnt projects
 # here is a yt vid- [(https://www.youtube.com/watch?v=1CNT3yw9bfQ)]
 # 📈 Stock Trading Learning Platform
 
