@@ -260,7 +260,6 @@ Platform-wide statistics
    In your Supabase dashboard, add these secrets:
    ```
    FINNHUB_API_KEY=your_finnhub_api_key
-   LOVABLE_API_KEY=your_lovable_ai_key (optional, for AI coach)
    FINNHUB_WEBHOOK_SECRET=your_webhook_secret (optional)
    ```
 
@@ -383,7 +382,6 @@ Data is stored in `stock_quotes_realtime` and automatically cleaned after 30 day
 ## 🤖 AI Coach Architecture
 
 The AI coach uses:
-- **Lovable AI Gateway**: OpenAI-compatible API
 - **Context awareness**: User progress, portfolio, and lesson data
 - **Conversation history**: Maintained in session
 - **File upload support**: Can analyze uploaded documents
@@ -397,11 +395,6 @@ The AI coach uses:
 - **SQL injection prevention**: Parameterized queries
 
 ## 🚀 Deployment
-
-### Frontend (Lovable Platform)
-1. Click "Publish" in Lovable editor
-2. Your app is live at `yourapp.lovable.app`
-3. Configure custom domain in project settings (paid plans)
 
 ### Self-Hosting
 1. Build the project: `npm run build`
